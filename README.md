@@ -1,8 +1,12 @@
 
-![photo_2025-12-24_20-12-25](https://github.com/user-attachments/assets/408feb42-3a0d-40ac-9251-237b47af9b42)
+
 
 
 # 🎓 Student Management System – Spring Boot + JPA + MySQL
+
+
+![photo_2025-12-24_20-12-25](https://github.com/user-attachments/assets/408feb42-3a0d-40ac-9251-237b47af9b42)
+
 
 A simple Spring Boot REST API for managing students using Spring Data JPA and MySQL.
 
