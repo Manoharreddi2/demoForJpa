@@ -78,8 +78,3 @@ Copy code
 - Database operations verified using **MySQL Workbench**
 - Tables are automatically created using JPA  
   (`spring.jpa.hibernate.ddl-auto=update`)
-
----
-
-## 📂 Project Structure
-
