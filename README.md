@@ -45,3 +45,39 @@ src/main/java/com/example/demoForJpa
 │ └── StudentRepo.java
 │
 └── DemoForJpaApplication.java
+
+
+
+
+
+
+
+
+## 🛠 Tech Stack Used
+
+- **Java** – Core programming language  
+- **Spring Boot** – Backend framework for building REST APIs  
+- **Spring Data JPA** – ORM layer for database operations  
+- **Hibernate** – JPA implementation  
+- **MySQL** – Relational database  
+- **Maven** – Dependency management & build tool  
+- **Postman** – API testing tool  
+- **Git & GitHub** – Version control and code hosting  
+
+---
+
+## 🧪 Testing
+
+- APIs are tested using **Postman**
+- Tested all CRUD operations:
+  - Create single student
+  - Create multiple students (bulk insert)
+  - Fetch all students
+  - Update student by ID
+  - Delete student by ID
+- Verified HTTP status codes:
+  - `201 CREATED`
+  - `200 OK`
+  - `404 NOT FOUND`
+- Database operations verified using **MySQL Workbench**
+- Tables are automatically created using **JPA (ddl-auto=update)**
