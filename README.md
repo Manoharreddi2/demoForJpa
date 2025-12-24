@@ -21,14 +21,17 @@ A simple Spring Boot REST API for managing students using Spring Data JPA and My
 
 ## 📂 Project Structure
 
+```
 src/main/java/com/example/demoForJpa
 ├── controller
-│ └── StudentController.java
+│   └── StudentController.java
 ├── entity
-│ └── Student.java
+│   └── Student.java
 ├── repo
-│ └── StudentRepo.java
+│   └── StudentRepo.java
 └── DemoForJpaApplication.java
+```
+
 
 ## 🛠 Tech Stack Used (Detailed)
 
