@@ -1,11 +1,11 @@
-🎓 Student Management System – Spring Boot + JPA + MySQL
+# 🎓 Student Management System – Spring Boot + JPA + MySQL
 
 A simple **Spring Boot REST API** for managing students using **Spring Data JPA** and **MySQL**.  
 This project demonstrates **CRUD operations**, RESTful APIs, and database integration.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 - Create a student
 - Create multiple students (bulk insert)
@@ -18,42 +18,38 @@ This project demonstrates **CRUD operations**, RESTful APIs, and database integr
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-- **Java**
-- **Spring Boot**
-- **Spring Data JPA**
-- **MySQL**
-- **Hibernate**
-- **Maven**
-- **Postman**
-- **Git & GitHub**
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Hibernate
+- Maven
+- Postman
+- Git & GitHub
 
 ---
+
+
 
 ## 📂 Project Structure
 
 src/main/java/com/example/demoForJpa
-│
 ├── controller
 │ └── StudentController.java
-│
 ├── entity
 │ └── Student.java
-│
 ├── repo
 │ └── StudentRepo.java
-│
 └── DemoForJpaApplication.java
 
+yaml
+Copy code
 
+---
 
-
-
-
-
-
-🛠 Tech Stack Used
+## 🛠 Tech Stack Used (Detailed)
 
 - **Java** – Core programming language  
 - **Spring Boot** – Backend framework for building REST APIs  
@@ -66,9 +62,9 @@ src/main/java/com/example/demoForJpa
 
 ---
 
-🧪 Testing
+## 🧪 Testing
 
-- APIs are tested using **Postman**
+- APIs tested using **Postman**
 - Tested all CRUD operations:
   - Create single student
   - Create multiple students (bulk insert)
@@ -80,4 +76,10 @@ src/main/java/com/example/demoForJpa
   - `200 OK`
   - `404 NOT FOUND`
 - Database operations verified using **MySQL Workbench**
-- Tables are automatically created using **JPA (ddl-auto=update)**
+- Tables are automatically created using JPA  
+  (`spring.jpa.hibernate.ddl-auto=update`)
+
+---
+
+## 📂 Project Structure
+
