@@ -1,11 +1,11 @@
-# 🎓 Student Management System – Spring Boot + JPA + MySQL
+🎓 Student Management System – Spring Boot + JPA + MySQL
 
 A simple **Spring Boot REST API** for managing students using **Spring Data JPA** and **MySQL**.  
 This project demonstrates **CRUD operations**, RESTful APIs, and database integration.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - Create a student
 - Create multiple students (bulk insert)
@@ -18,7 +18,7 @@ This project demonstrates **CRUD operations**, RESTful APIs, and database integr
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - **Java**
 - **Spring Boot**
@@ -53,7 +53,7 @@ src/main/java/com/example/demoForJpa
 
 
 
-## 🛠 Tech Stack Used
+🛠 Tech Stack Used
 
 - **Java** – Core programming language  
 - **Spring Boot** – Backend framework for building REST APIs  
@@ -66,7 +66,7 @@ src/main/java/com/example/demoForJpa
 
 ---
 
-## 🧪 Testing
+🧪 Testing
 
 - APIs are tested using **Postman**
 - Tested all CRUD operations:
